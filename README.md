@@ -1,176 +1,218 @@
-<!-- ========================================================= -->
-<!-- NALLA RITHWIK | GITHUB PROFILE README                     -->
-<!-- Theme: Aurora / Dark / Cyan / Violet                      -->
-<!-- ========================================================= -->
+<!-- ====================================================== -->
+
+<!-- NALLA RITHWIK | WHISKERWOLF                            -->
+
+<!-- Dark Aurora | Cyan | Violet | Terminal Aesthetic       -->
+
+<!-- ====================================================== -->
 
 <div align="center">
 
-<a href="https://www.gitskins.com/api/section/hero?username=whiskerwolf&theme=aurora&variant=living-identity&label=Nalla%20Rithwik&mode=dark">
-  <img src="https://www.gitskins.com/api/section/hero?username=whiskerwolf&theme=aurora&variant=living-identity&label=Nalla%20Rithwik&mode=dark" width="100%" alt="Nalla Rithwik animated identity"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" width="100%" alt="Nalla Rithwik — Developer Identity"/>
+</picture>
+
+<br/>
+
+<a href="https://github.com/whiskerwolf">
+  <img src="https://img.shields.io/badge/GITHUB-@WHISKERWOLF-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+</a>
+<a href="mailto:rithwik.12abc@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=750&lines=Computer+Science+Engineer;Full-Stack+Developer;AI%2FML+%26+Data+Science+Enthusiast;Building+%E2%80%A2+Learning+%E2%80%A2+Improving" alt="Animated typing introduction"/>
+
+</div>
+
+01 / IDENTITY.SIGNAL
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+> whoami
+
+I'm Nalla Rithwik, a Computer Science student at SRM University AP.
+
+I enjoy building practical software, exploring Artificial Intelligence, working with data, and understanding how reliable applications are designed and deployed.
+
+Current interests
+
+Artificial Intelligence & Machine Learning
+
+Data Science & Analytics
+
+Backend Engineering
+
+Cloud & DevOps
+
+Software Engineering
+
+My approach
+
+LEARN → BUILD → TEST → IMPROVE
+
+</td>
+<td width="40%" valign="top">
+
+> operating.principles
+
+SIGNAL
+
+PRINCIPLE
+
+01
+
+🔹 LEARN
+
+02
+
+🟣 BUILD
+
+03
+
+🟢 ITERATE
+
+04
+
+🔹 SHIP
+
+<br/>
+
+CURRENT STATUS
+
+Building · Learning · Shipping
+
+</td>
+</tr>
+</table>
+
+02 / THE TOOLS BEHIND THE WORK
+
+<div align="center">
+
+<img src="./assets/tools-behind-the-work.svg" width="100%" alt="Technology spectrum covering programming, frontend, backend, AI, data, databases, security and cloud"/>
+
+</div>
+
+<sub>Technologies represented across completed projects, implementation work and current learning.</sub>
+
+03 / BUILT, SHIPPED, SHARED
+
+<div align="center">
+
+<img src="./assets/particle-preview.png" width="85%" alt="Particle-based project visual"/>
+
+<br/>
+
+<a href="./assets/particle-morph.gif">
+  <img src="https://img.shields.io/badge/▶_OPEN_FULL_PARTICLE_ANIMATION-22D3EE?style=for-the-badge&logoColor=black"/>
 </a>
 
 <br/>
 
-### COMPUTER SCIENCE ENGINEER · FULL-STACK DEVELOPER · AI/ML ENTHUSIAST
-
-Building intelligent systems, scalable applications, and practical software.
-
-<a href="https://github.com/whiskerwolf">
-  <img src="https://img.shields.io/badge/GitHub-whiskerwolf-0B1220?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<sub>IDEA → DESIGN → IMPLEMENTATION → ITERATION</sub>
 
 </div>
-
----
-
-## 01 / IDENTITY.SIGNAL
-
-<div align="center">
-
-<a href="https://www.gitskins.com/api/section/highlights?username=whiskerwolf&theme=aurora&variant=wow&mode=dark">
-  <img src="https://www.gitskins.com/api/section/highlights?username=whiskerwolf&theme=aurora&variant=wow&mode=dark" width="100%" alt="Animated profile highlights"/>
-</a>
-
-</div>
-
-| PROFILE | DETAILS |
-|:---|:---|
-| Name | Nalla Rithwik |
-| Education | B.Tech — Computer Science |
-| University | SRM University AP |
-| Role | Computer Science Engineer |
-| Interests | AI · Machine Learning · Data Science · Backend Engineering |
-| Current focus | Building · Learning · Improving |
-
-I value steady learning, practical implementation, readable code, and improving projects through testing and feedback.
-
----
-
-## 02 / THE TOOLS BEHIND THE WORK
-
-<div align="center">
-
-<img src="./assets/tools-behind-the-work.svg" width="100%" alt="Complete technology spectrum"/>
-
-</div>
-
----
-
-## 03 / BUILT, SHIPPED, SHARED
-
-<div align="center">
-
-<a href="https://www.gitskins.com/api/section/projects?username=whiskerwolf&theme=aurora&repos=whiskerwolf/EdgeMind,whiskerwolf/Netflix-Data-Analysis,whiskerwolf/AI-Network-Packet-Analyzer,whiskerwolf/smart-cpu-scheduler-visualizer&variant=wow&mode=dark">
-  <img src="https://www.gitskins.com/api/section/projects?username=whiskerwolf&theme=aurora&repos=whiskerwolf/EdgeMind,whiskerwolf/Netflix-Data-Analysis,whiskerwolf/AI-Network-Packet-Analyzer,whiskerwolf/smart-cpu-scheduler-visualizer&variant=wow&mode=dark" width="100%" alt="Animated project showcase"/>
-</a>
-
-</div>
-
-### Featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 EdgeMind
+🧠 EdgeMind
 
 AI-focused software engineering project.
 
-**Focus:** AI · Software Engineering
+Focus: AI · Software Engineering
 
 <a href="https://github.com/whiskerwolf/EdgeMind">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 AI Network Packet Analyzer
+🌐 AI Network Packet Analyzer
 
-Network packet sniffing, protocol detection, and anomaly detection using Isolation Forest.
+Packet sniffing, protocol detection and anomaly detection using Isolation Forest.
 
-**Stack:** Python · Scapy · Machine Learning
+Stack: Python · Scapy · Tkinter · ML
 
 <a href="https://github.com/whiskerwolf/AI-Network-Packet-Analyzer">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Smart CPU Scheduler Visualizer
+⚙️ Smart CPU Scheduler Visualizer
 
-Interactive scheduling visualizer implementing FCFS, SJF, Priority, and Round Robin with Gantt charts and performance metrics.
+Interactive CPU scheduling visualizer supporting FCFS, SJF, Priority and Round Robin, with Gantt charts and performance metrics.
 
-**Stack:** Python · Tkinter · Algorithms
+Stack: Python · Tkinter · Matplotlib · Algorithms
 
 <a href="https://github.com/whiskerwolf/smart-cpu-scheduler-visualizer">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Netflix Data Analysis
+📊 Netflix Data Analysis
 
-Exploratory analysis of Netflix content with data cleaning, visualizations, and insights.
+Exploratory analysis of Netflix content, including data cleaning, visualization and business insights.
 
-**Stack:** Python · Pandas · NumPy · Matplotlib
+Stack: Python · Pandas · NumPy · Matplotlib
 
 <a href="https://github.com/whiskerwolf/Netflix-Data-Analysis">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 📰 AI Fake News Detector
+📰 AI Fake News Detector
 
-Machine-learning-based fake news classification using NLP and TF-IDF.
+NLP-based fake news classification using TF-IDF features and machine learning.
 
-**Stack:** Python · NLP · scikit-learn
+Stack: Python · NLP · TF-IDF · scikit-learn
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Token Cookie Project
+🔐 Token Cookie Project
 
-Authentication implementation using JWT and secure HTTP-only cookies.
+JWT-based authentication and secure HTTP-only cookie handling.
 
-**Stack:** Node.js · Express · JWT
+Stack: Node.js · Express · JWT · Cookies
 
 <a href="https://github.com/whiskerwolf/token-cookie-project">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-22D3EE?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
 
 </td>
 </tr>
 </table>
 
----
-
-## 04 / MOMENTUM.ANALYTICS
+04 / GITHUB.ANALYTICS
 
 <div align="center">
 
-<a href="https://www.gitskins.com/api/section/stats?username=whiskerwolf&theme=aurora&variant=wow&mode=dark">
-  <img src="https://www.gitskins.com/api/section/stats?username=whiskerwolf&theme=aurora&variant=wow&mode=dark" width="100%" alt="Animated GitHub statistics"/>
-</a>
-
-<br/><br/>
-
 <a href="https://github-readme-stats.vercel.app/api?username=whiskerwolf&show_icons=true&hide_border=true&bg_color=070C1A&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=whiskerwolf&show_icons=true&hide_border=true&bg_color=070C1A&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=whiskerwolf&show_icons=true&hide_border=true&bg_color=070C1A&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=whiskerwolf&layout=compact&hide_border=true&bg_color=070C1A&title_color=22D3EE&text_color=E2E8F0">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiskerwolf&layout=compact&hide_border=true&bg_color=070C1A&title_color=22D3EE&text_color=E2E8F0" alt="Most used languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whiskerwolf&layout=compact&hide_border=true&bg_color=070C1A&title_color=22D3EE&text_color=E2E8F0" alt="Top programming languages"/>
 </a>
 
 <br/><br/>
@@ -181,65 +223,103 @@ Authentication implementation using JWT and secure HTTP-only cookies.
 
 </div>
 
----
-
-## 05 / THE CONTRIBUTION TRAIL
+05 / CONTRIBUTION.TRAIL
 
 <div align="center">
 
-<a href="https://www.gitskins.com/api/section/heatmap?username=whiskerwolf&theme=aurora&variant=wow&mode=dark">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=whiskerwolf&theme=aurora&variant=wow&mode=dark" width="100%" alt="GitHub contribution heatmap"/>
-</a>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/whiskerwolf/whiskerwolf/output/github-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/whiskerwolf/whiskerwolf/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
 
 </div>
 
----
+06 / CURRENTLY.EXPLORING
 
-## 06 / CURRENTLY.EXPLORING
+<table>
+<tr>
+<td width="50%" valign="top">
+
+01 / ARTIFICIAL INTELLIGENCE
+
+Deep Learning
+
+Neural Networks
+
+Natural Language Processing
+
+Machine Learning
+
+</td>
+<td width="50%" valign="top">
+
+02 / DATA SCIENCE
+
+Statistics
+
+Data Analysis
+
+Data Visualization
+
+SQL
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+03 / SOFTWARE ENGINEERING
+
+Java & Python
+
+Data Structures & Algorithms
+
+Backend Engineering
+
+API Security
+
+</td>
+<td width="50%" valign="top">
+
+04 / CLOUD & DEVOPS
+
+Linux & Ubuntu
+
+Docker
+
+AWS
+
+Deployment & Automation
+
+</td>
+</tr>
+</table>
+
+07 / CONNECT
 
 <div align="center">
 
-| DOMAIN | LEARNING FOCUS |
-|:---|:---|
-| Artificial Intelligence | Deep Learning · Neural Networks · NLP |
-| Data Science | Statistics · Data Analysis · Visualization |
-| Programming | Java · Python · DSA · Problem Solving |
-| Backend Engineering | Node.js · Express · API Security |
-| Cloud & DevOps | Linux · Docker · AWS · Deployment |
-| Databases | SQL · MongoDB · Redis |
+MAKE SOMETHING WORTH NOTICING
 
-</div>
+I enjoy collaborating with people who care about engineering quality, continuous learning and building useful products.
 
----
-
-## 07 / CONNECT
-
-<div align="center">
-
-### MAKE SOMETHING WORTH NOTICING
-
-I enjoy collaborating with people who care about engineering quality, continuous learning, and building useful products.
+<br/>
 
 <a href="https://github.com/whiskerwolf">
   <img src="https://img.shields.io/badge/GITHUB-@WHISKERWOLF-0B1220?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
 
-<br/><br/>
-
 <a href="mailto:rithwik.12abc@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <img src="https://img.shields.io/badge/EMAIL-LET'S_CONNECT-0B1220?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br/><br/>
 
-<sub>DESIGNED AROUND CURIOSITY · BUILT WITH PURPOSE · ALWAYS EVOLVING</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:6366F1,100:A78BFA&height=3&section=footer" width="100%"/>
 
 <br/>
 
-<sub>© Nalla Rithwik · whiskerwolf</sub>
+<sub>DESIGNED AROUND CURIOSITY · BUILT WITH PURPOSE · ALWAYS EVOLVING</sub>
+
+<br/><br/>
+
+<sub>© Nalla Rithwik · WHISKERWOLF</sub>
 
 </div>
