@@ -1,0 +1,25 @@
+WHISKERWOLF PROFILE README — INSTALL
+
+1. Upload README.md to the ROOT of the special repository:
+   whiskerwolf/whiskerwolf
+
+2. Upload the entire assets folder, preserving these exact paths:
+   assets/hero-animated.gif
+   assets/particle-morph.gif
+   assets/particle-preview.png
+   assets/tools-behind-the-work.svg
+
+3. The README displays the portrait banner and the unified technology stack.
+   The particle GIF and preview are included for later use in the EdgeMind
+   project showcase; they are not required by this README.
+
+4. The contribution snake requires the existing GitHub Actions workflow to
+   publish output/github-snake-dark.svg. If that file is not generated,
+   remove the contribution-trail image block until the workflow succeeds.
+
+5. GitHub README does not support custom CSS or JavaScript. This design uses
+   Markdown, HTML tables, and static/animated images for consistent rendering.
+
+6. The Fake News Detector and Token Cookie Project links are intentionally
+   displayed as project names without repository URLs because exact repository
+   URLs have not been verified. Add links after confirming their repository names.
